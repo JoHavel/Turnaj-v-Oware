@@ -3,6 +3,18 @@ Vítejte na GitHub stránce témátu Oware středoškolského korespondenčního
 
 Pravidla Oware a úvod k témátu najdete na stránkách [prvního čísla](https://mam.mff.cuni.cz/media/cislo/pdf/28/28-1.pdf).
 
+## Turnaje
+První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítězství, 1 za remízu, 5+5 her každý s každým):
+|          | Adam  | Daniel | Jiří  | Martin | Tomáš | Umístění |
+|----------|-------|--------|-------|--------|-------|----------|
+| Adam     |   X   |  16:4  | 18:2  |  20:0  | 20:0  |    1.    |
+| Daniel   |  4:16 |    X   | 10:10 |  20:0  | 20:0  |    2.    |
+| Jiří     |  2:18 |  10:10 |   X   |  20:0  | 20:0  |    3.    |
+| Martin   |  0:20 |   0:20 |  0:20 |    X   |  0:20 |    4.    |
+| Tomáš    |  0:20 |   0:20 |  0:20 |  20:0  |   X   |    5.    |
+
+Další turnaj je plánován zhruba na 27. října 2021.
+
 ## Instalace
 Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních stránkách](https://www.python.org/downloads/).
 
@@ -32,4 +44,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 12. 6. 2021
+Poslední aktualizace 24. 10. 2021 (přidán první turnaj)
