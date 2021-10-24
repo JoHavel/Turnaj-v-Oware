@@ -5,13 +5,13 @@ Pravidla Oware a úvod k témátu najdete na stránkách [prvního čísla](http
 
 ## Turnaje
 První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítězství, 1 za remízu, 5+5 her každý s každým):
-|          | Adam  | Daniel | Jiří  | Martin | Tomáš | Umístění |
-|----------|-------|--------|-------|--------|-------|----------|
-| Adam     |   X   |  16:4  | 18:2  |  20:0  | 20:0  |    1.    |
-| Daniel   |  4:16 |    X   | 10:10 |  20:0  | 20:0  |    2.    |
-| Jiří     |  2:18 |  10:10 |   X   |  20:0  | 20:0  |    3.    |
-| Martin   |  0:20 |   0:20 |  0:20 |    X   |  0:20 |    4.    |
-| Tomáš    |  0:20 |   0:20 |  0:20 |  20:0  |   X   |    5.    |
+|          | Adam  | Daniel | Jiří  | Tomáš | Martin | Umístění |
+|----------|-------|--------|-------|-------|--------|----------|
+| Adam     |   X   |  16:4  | 18:2  | 20:0  |  20:0  |    1.    |
+| Daniel   |  4:16 |    X   | 10:10 | 20:0  |  20:0  |    2.    |
+| Jiří     |  2:18 |  10:10 |   X   | 20:0  |  20:0  |    3.    |
+| Tomáš    |  0:20 |   0:20 |  0:20 |   X   |  20:0  |    4.    |
+| Martin   |  0:20 |   0:20 |  0:20 |  0:20 |    X   |    5.    |
 
 Další turnaj je plánován zhruba na 27. října 2021.
 
