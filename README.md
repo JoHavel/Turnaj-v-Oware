@@ -3,6 +3,16 @@ Vítejte na GitHub stránce témátu Oware středoškolského korespondenčního
 
 Pravidla Oware a úvod k témátu najdete na stránkách [prvního čísla](https://mam.mff.cuni.cz/media/cislo/pdf/28/28-1.pdf).
 
+## Vypsané odměny
+|        | Agamemnon (3b) | Bellerophon (2b) | Cadmus (3b) | Diomedes (  ) |
+|--------|----------------|------------------|-------------|---------------|
+| Adam   |     18:2       |      14:6        |    13:7     |               |
+| Jiří   |     20:0       |      16:4        |    13:7     |               | 
+| Václav |     15:5       |      14:6        |    13:7     |               |
+| Daniel |     20:0       |      14:6        |     2:18    |               |
+| Tomáš  |     18:2       |       0:20       |     0:20    |               |
+| Martin |      8:12      |       0:20       |     0:20    |               |
+
 ## Turnaje
 První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítězství, 1 za remízu, 5+5 her každý s každým):
 |          | Adam  | Daniel | Jiří  | Tomáš | Martin | Umístění |
@@ -14,7 +24,7 @@ První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítěz
 | Martin   |  0:20 |   0:20 |  0:20 |  0:20 |    X   |    5.    |
 
 Druhý turnaj proběhl 27. října 2021 a dopadl následovně:
-|          | Adam  | Václav | Jiří  | Daniel | Tomáš | Martin | Umístění | Body |
+|          | Adam  | Václav | Jiří  | Daniel | Tomáš | Martin | Umístění | Suma |
 |----------|-------|--------|-------|--------|-------|--------|----------|------|
 | Adam     |   X   |  12:8  |  9:11 |  20:0  | 20:0  |  20:0  |    1.    |  81  |
 | Václav   |  8:12 |    X   | 14:6  |  19:1  | 20:0  |  10:10 |    2.    |  71  | 
@@ -54,4 +64,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 24. 10. 2021 (přidán první turnaj)
+Poslední aktualizace 31. 10. 2021 (přidán druhý turnaj a vypsané odměny)
