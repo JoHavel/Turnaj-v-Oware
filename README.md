@@ -8,12 +8,22 @@ První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítěz
 |          | Adam  | Daniel | Jiří  | Tomáš | Martin | Umístění |
 |----------|-------|--------|-------|-------|--------|----------|
 | Adam     |   X   |  16:4  | 18:2  | 20:0  |  20:0  |    1.    |
-| Daniel   |  4:16 |    X   | 10:10 | 20:0  |  20:0  |    2.    |
+| Daniel   |  4:16 |    X   | 10:10 | 20:0  |  20:0  |    2.    |
 | Jiří     |  2:18 |  10:10 |   X   | 20:0  |  20:0  |    3.    |
 | Tomáš    |  0:20 |   0:20 |  0:20 |   X   |  20:0  |    4.    |
 | Martin   |  0:20 |   0:20 |  0:20 |  0:20 |    X   |    5.    |
 
-Další turnaj je plánován zhruba na 27. října 2021.
+Druhý turnaj proběhl 27. října 2021 a dopadl následovně:
+|          | Adam  | Václav | Jiří  | Daniel | Tomáš | Martin | Umístění | Body |
+|----------|-------|--------|-------|--------|-------|--------|----------|------|
+| Adam     |   X   |  12:8  |  9:11 |  20:0  | 20:0  |  20:0  |    1.    |  81  |
+| Václav   |  8:12 |    X   | 14:6  |  19:1  | 20:0  |  10:10 |    2.    |  71  | 
+| Jiří     | 11:9  |   6:14 |   X   |  12:8  | 20:0  |  20:0  |    3.    |  69  |
+| Daniel   |  0:20 |   1:19 |  8:12 |    X   | 20:0  |  20:0  |    4.    |  49  |
+| Tomáš    |  0:20 |   0:20 |  0:20 |   0:20 |   X   |  20:0  |    5.    |  20  |
+| Martin   |  0:20 |  10:10 |  0:20 |   0:20 |  0:20 |    X   |    6.    |  10  |
+
+Další turnaj je plánován zhruba na 10. listopadu 2021.
 
 ## Instalace
 Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních stránkách](https://www.python.org/downloads/).
