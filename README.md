@@ -40,6 +40,8 @@ Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních strá
 
 Následně si stačí tento repozitář stáhnout (záložka `code` výše, položka `Download zip`), rozbalit do libovolné složky a spustit kliknutím na příslušný soubor, nebo z příkazové řádky (zvláště pokud chcete spouštět [oware/text.py](oware/text.py) s parametry) jako (po přesunutí se do složky `oware`) `python ….py`, například `python text.py -f` nebo `python text.py -s agents/nahodny.py agents/nejlepsi_po_mem.py`.
 ## Technické detaily
+Jelikož máme velmi napilno a času moc není, tak nové funkce prozatím nepopisujeme v dokumentaci, ale jejich popis je přímo u nich v komentářích a dokumentaci Pythonu. Nové funkce jsou: `freeze` a `staw`.
+
 Vaše řešení, které se skládá z **jednoho** souboru (<50MB) popsaného v [dokumentaci](dokumentace_user.pdf), odevzdávejte v odevzdávátku, které po přihlášení najdete na stránkách [M&M](https://mam.mff.cuni.cz/).
 
 Tento soubor má obsahovat implementaci tzv. agenta, tj. skriptu, který sám hraje hru Oware. Nějaké jednoduché příklady takových skriptů najdete ve složce [oware/agents](oware/agents).
@@ -64,4 +66,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 31. 10. 2021 (přidán druhý turnaj a vypsané odměny)
+Poslední aktualizace 7. 11. 2021 (přidány freeze a thaw do game)

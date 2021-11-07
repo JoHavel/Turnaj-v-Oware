@@ -184,3 +184,28 @@ def new_game(nop: int = 6, nosip: int = 4) -> Game:
             :param nosip: the number of seeds in one pit, default 4.
     """
     return Game(pits=[nosip] * 2 * nop, score=[0, 0], ended=False, _player=0, _n_of_pits=nop, _n_of_seeds=2*nop*nosip)
+
+
+def freeze(game: Game):
+    """
+    Vytvoří z hry tuple s důležitými informacemi, tuple se pak dá používat např. pro indexování množiny nebo slovníku (dict).
+
+    Na výsledku není možné volat žádné funkce z Game a nelze ho měnit. K tomu slouží thaw, které zase vrátí Game.
+    :param game: Game, kterou chceme zamrazit
+    :return: tuple reprezentující neměnný aktuální stav game
+    """
+    return tuple(((game.player_score, game.opponent_score), tuple(game.player_pits + game.opponent_pits)))
+
+
+def thaw(state: tuple, ended=False, _player=0, _n_of_pits=6, _n_of_seeds=48):
+    """
+    Odmrazí tuple vrácené z freeze, aby se daná hra zase dala měnit a byly na ní volatelné funkce z Game.
+
+    :param state: výstup z freeze
+    :param ended:       \
+    :param _player:     |  Dodatečné informace, pokud hrajeme jinou verzi oware
+    :param _n_of_pits:  |
+    :param _n_of_seeds: /
+    :return: "kopie" hry ze které vznikl state
+    """
+    return Game(*state, ended, _player=_player, _n_of_pits=_n_of_pits, _n_of_seeds=_n_of_seeds)
