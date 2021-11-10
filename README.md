@@ -35,6 +35,7 @@ Druhý turnaj proběhl 27. října 2021 a dopadl následovně:
 
 Třetí turnaj proběhl 10. listopadu a zde jsou výsledky:
 |        | Adam   | Jiří   | Václav | Daniel | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Adam   |   X    | 11:9   | 14:6   | 18:2   | 16:4   | 20:0   |     1.   |  79  |
 | Jiří   |  9:11  |   X    | 14:6   | 14:6   | 20:0   | 20:0   |     2.   |  77  |
 | Václav |  6:14  |  6:14  |   X    | 16:4   | 20:0   | 10:10  |     3.   |  58  |
