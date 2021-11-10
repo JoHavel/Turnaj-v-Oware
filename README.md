@@ -4,14 +4,14 @@ Vítejte na GitHub stránce témátu Oware středoškolského korespondenčního
 Pravidla Oware a úvod k témátu najdete na stránkách [prvního čísla](https://mam.mff.cuni.cz/media/cislo/pdf/28/28-1.pdf).
 
 ## Vypsané odměny
-|        | Agamemnon (3b) | Bellerophon (2b) | Cadmus (3b) | Diomedes (  ) |
-|--------|----------------|------------------|-------------|---------------|
-| Adam   |     18:2       |      14:6        |    13:7     |               |
-| Jiří   |     20:0       |      16:4        |    13:7     |               | 
-| Václav |     15:5       |      14:6        |    13:7     |               |
-| Daniel |     20:0       |      14:6        |     2:18    |               |
-| Tomáš  |     18:2       |       0:20       |     0:20    |               |
-| Martin |      8:12      |       0:20       |     0:20    |               |
+|        | Agamemnon (3b) | Bellerophon (2b) | Cadmus (3b) | Diomedes (3b) | Erechtheus (  ) |
+|--------|----------------|------------------|-------------|---------------|-----------------|
+| Adam   |     20:0       |      17:3        |    13:7     |      9:11     |                 |
+| Jiří   |     20:0       |      16:4        |    13:7     |      8:20     |                 |
+| Václav |     15:5       |      14:6        |    13:7     |      5:20     |                 |
+| Daniel |     20:0       |      14:6        |     2:18    |      0:20     |                 |
+| Tomáš  |     18:2       |      10:10       |     2:18    |      0:20     |                 |
+| Martin |      8:12      |       0:20       |     0:20    |      0:20     |                 |
 
 ## Turnaje
 První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítězství, 1 za remízu, 5+5 her každý s každým):
@@ -66,4 +66,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 7. 11. 2021 (přidány freeze a thaw do game)
+Poslední aktualizace 10. 11. 2021 (aktualizovány souboje o odměny)
