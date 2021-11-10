@@ -33,7 +33,16 @@ Druhý turnaj proběhl 27. října 2021 a dopadl následovně:
 | Tomáš    |  0:20 |   0:20 |  0:20 |   0:20 |   X   |  20:0  |    5.    |  20  |
 | Martin   |  0:20 |  10:10 |  0:20 |   0:20 |  0:20 |    X   |    6.    |  10  |
 
-Další turnaj je plánován zhruba na 10. listopadu 2021.
+Třetí turnaj proběhl 10. listopadu a zde jsou výsledky:
+|        | Adam   | Jiří   | Václav | Daniel | Tomáš  | Martin | Umístění | Suma |
+| Adam   |   X    | 11:9   | 14:6   | 18:2   | 16:4   | 20:0   |     1.   |  79  |
+| Jiří   |  9:11  |   X    | 14:6   | 14:6   | 20:0   | 20:0   |     2.   |  77  |
+| Václav |  6:14  |  6:14  |   X    | 16:4   | 20:0   | 10:10  |     3.   |  58  |
+| Daniel |  2:18  |  6:14  |  4:16  |   X    | 10:10  | 20:0   |     4.   |  42  |
+| Tomáš  |  4:16  |  0:20  |  0:20  | 10:10  |   X    | 20:0   |     5.   |  34  |
+| Martin |  0:20  |  0:20  | 10:10  |  0:20  |  0:20  |   X    |     6.   |  10  |
+
+Další turnaj je plánován zhruba na 24. listopadu 2021.
 
 ## Instalace
 Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních stránkách](https://www.python.org/downloads/).
@@ -66,4 +75,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 10. 11. 2021 (aktualizovány souboje o odměny)
+Poslední aktualizace 10. 11. 2021 (aktualizovány souboje o odměny a třetí turnaj)
