@@ -3,6 +3,8 @@ Vítejte na GitHub stránce témátu Oware středoškolského korespondenčního
 
 Pravidla Oware a úvod k témátu najdete na stránkách [prvního čísla](https://mam.mff.cuni.cz/media/cislo/pdf/28/28-1.pdf).
 
+Zároveň nám [zde](/NegaMax.md) přibyl nový text, který vám možná pomůže ve vylepšování vašich agentů.
+
 ## Vypsané odměny
 |        | Agamemnon (3b) | Bellerophon (2b) | Cadmus (3b) | Diomedes (3b) | Erechtheus (  ) |
 |--------|----------------|------------------|-------------|---------------|-----------------|
@@ -76,4 +78,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 10. 11. 2021 (aktualizovány souboje o odměny a třetí turnaj)
+Poslední aktualizace 13. 11. 2021 (přidán text)
