@@ -110,8 +110,8 @@ def main(args: argparse.Namespace):
                 continue
 
 
-            for n in range(args.number):
-                sc = agent_combat(args, i, j, *time_pairs[n])
+            for match_i in range(args.number):
+                sc = agent_combat(args, i, j, *time_pairs[match_i])
                 game_points = signum(sc[0] - sc[1])  # Winner takes 1, looser -1 and by draw both takes 0
                 score[i][j] += game_points + 1
                 score[j][i] -= game_points - 1
