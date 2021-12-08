@@ -46,7 +46,7 @@ Třetí turnaj proběhl 10. listopadu a zde jsou výsledky:
 | Martin |  0:20  |  0:20  | 10:10  |  0:20  |  0:20  |   X    |     6.   |  10  |
 
 Čtvrtý turnaj proběhl k 24. listopadu a výsledky se nezměnily, jako se nezměnili ani agenti:
-|        | Adam   | Daniel | Jiří   | Martin | Tomáš  | Václav | Umístění | Suma |
+|        | Adam   | Jiří   | Václav | Daniel | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Adam   |   X    | 11:9   | 18:2   | 17:3   | 16:4   | 20:0   |     1.   |  82  |
 | Jiří   |  9:11  |   X    | 14:6   | 12:8   | 20:0   | 20:0   |     2.   |  75  |
