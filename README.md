@@ -55,7 +55,17 @@ Třetí turnaj proběhl 10. listopadu a zde jsou výsledky:
 | Tomáš  |  4:16  |  0:20  |  0:20  | 10:10  |   X    | 20:0   |     5.   |  34  |
 | Martin |  0:20  |  0:20  |  6:14  |  0:20  |  0:20  |   X    |     6.   |   6  |
 
-Další turnaj je plánován zhruba na 8. prosince 2021.
+Pátý turnaj, ve kterém Adam vyslyšel naši výzvu z právě vydávaného čísla proběhl 8. prosince:
+|        | Daniel | Adam    | Jiří   | Václav | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|---------|--------|--------|--------|--------|----------|------|
+| Daniel |   X    |  16:4   | 20:0   | 20:0   | 18:2   | 20:0   |     1.   |  94  |
+| Adam   |  4:16  |    X    | 13:7   | 15:5   | 17:3   | 20:0   |     2.   |  69  |
+| Jiří   |  0:20  |   7:13  |   X    |  6:14  | 18:2   | 20:0   |     3.   |  51  |
+| Václav |  0:20  |   5:15  | 14:6   |   X    | 16:4   | 10:10  |     4.   |  45  |
+| Tomáš  |  2:18  |   3:17  |  2:18  |  4:16  |   X    | 20:0   |     5.   |  31  |
+| Martin |  0:20  |   0:20  |  0:20  | 10:10  |  0:20  |   X    |     6.   |  10  |
+
+Další turnaj je plánován zhruba na 22. prosince 2021.
 
 ## Instalace
 Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních stránkách](https://www.python.org/downloads/).
@@ -88,4 +98,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 26. 11. 2021 (čtvrtý turnaj)
+Poslední aktualizace 8. 12. 2021 (pátý turnaj)
