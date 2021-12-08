@@ -139,8 +139,7 @@ def main(args: argparse.Namespace):
 
         # names = [name.split()[0] for name in names]
         maxlen = max(len(name) for name in names)
-        # names_with_spaces = [" " * int((maxlen - len(name))/2) + name + " " * int((maxlen - len(name) + 1)/2) for name in names]
-        names_with_spaces = [name + " " * int(maxlen - len(name)) for name in names]
+        names_with_spaces = [names[i] + " " * int(maxlen - len(names[i])) for i in indices]
 
         print("| " + " " * maxlen + " | " + " | ".join(names_with_spaces) + " | Umístění | Suma |")
         print("|-" + ("-" * maxlen + "-|-") * (n + 1) + "---------|------|")
