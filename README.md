@@ -55,7 +55,7 @@ Třetí turnaj proběhl 10. listopadu a zde jsou výsledky:
 | Tomáš  |  4:16  |  0:20  |  0:20  | 10:10  |   X    | 20:0   |     5.   |  34  |
 | Martin |  0:20  |  0:20  |  6:14  |  0:20  |  0:20  |   X    |     6.   |   6  |
 
-Pátý turnaj, ve kterém Adam vyslyšel naši výzvu z právě vydávaného čísla proběhl 8. prosince:
+Pátý turnaj, ve kterém Daniel vyslyšel naši výzvu z právě vydávaného čísla proběhl 8. prosince:
 |        | Daniel | Adam    | Jiří   | Václav | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|---------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    |  16:4   | 20:0   | 20:0   | 18:2   | 20:0   |     1.   |  94  |
