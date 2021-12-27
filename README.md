@@ -65,7 +65,17 @@ Pátý turnaj, ve kterém Daniel vyslyšel naši výzvu z právě vydávaného �
 | Tomáš  |  2:18  |   3:17  |  2:18  |  4:16  |   X    | 20:0   |     5.   |  31  |
 | Martin |  0:20  |   0:20  |  0:20  | 10:10  |  0:20  |   X    |     6.   |  10  |
 
-Další turnaj je plánován zhruba na 22. prosince 2021.
+Vánoční – šestý – turnaj proběhl k 22. prosinci 2021. Nadělil body Danovi, Adamovi a Jiřímu. Gratulujeme:
+|        | Daniel | Adam   | Jiří   | Václav | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|--------|--------|--------|--------|--------|----------|------|
+| Daniel |   X    | 20:0   | 20:0   | 20:0   | 20:0   | 20:0   |     1.   | 100  |
+| Adam   |  0:20  |   X    | 13:7   | 14:6   | 18:2   | 20:0   |     2.   |  65  |
+| Jiří   |  0:20  |  7:13  |   X    | 10:10  | 15:5   | 20:0   |     3.   |  52  |
+| Václav |  0:20  |  6:14  | 10:10  |   X    | 16:4   | 10:10  |     4.   |  42  |
+| Tomáš  |  0:20  |  2:18  |  5:15  |  4:16  |   X    | 20:0   |     5.   |  31  |
+| Martin |  0:20  |  0:20  |  0:20  | 10:10  |  0:20  |   X    |     6.   |  10  |
+
+Na příští turnaj se můžete těšit do 5. ledna 2022 🎆
 
 ## Instalace
 Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních stránkách](https://www.python.org/downloads/).
@@ -98,4 +108,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 8. 12. 2021 (pátý turnaj)
+Poslední aktualizace 27. 12. 2021 (šestý turnaj)
