@@ -75,7 +75,16 @@ Vánoční – šestý – turnaj proběhl k 22. prosinci 2021. Nadělil body Da
 | Tomáš  |  0:20  |  2:18  |  5:15  |  4:16  |   X    | 20:0   |     5.   |  31  |
 | Martin |  0:20  |  0:20  |  0:20  | 10:10  |  0:20  |   X    |     6.   |  10  |
 
-Na příští turnaj se můžete těšit do 5. ledna 2022 🎆
+Letošní první 🎆 turnaj (a sedmý v pořadí) proběhl 5. ledna:
+Hra Václav Tichý vs. Tomáš Flídr skončila 32:9
+|        | Daniel | Adam   | Václav | Jiří   | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|--------|--------|--------|--------|--------|----------|------|
+| Daniel |   X    | 20:0   | 20:0   | 18:2   | 20:0   | 20:0   |     1.   |  98  |
+| Adam   |  0:20  |   X    | 13:7   | 12:8   | 14:6   | 18:2   |     2.   |  57  |
+| Václav |  0:20  |  7:13  |   X    | 18:2   | 16:4   | 10:10  |     3.   |  51  |
+| Jiří   |  2:18  |  8:12  |  2:18  |   X    | 12:8   | 20:0   |     4.   |  44  |
+| Tomáš  |  0:20  |  6:14  |  4:16  |  8:12  |   X    | 20:0   |     5.   |  38  |
+| Martin |  0:20  |  2:18  | 10:10  |  0:20  |  0:20  |   X    |     6.   |  12  |
 
 ## Instalace
 Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních stránkách](https://www.python.org/downloads/).
@@ -108,4 +117,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 27. 12. 2021 (šestý turnaj)
+Poslední aktualizace 7. 1. 2022 (sedmý turnaj, aktualizace odměn bude brzy)
