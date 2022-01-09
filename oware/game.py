@@ -208,4 +208,4 @@ def thaw(state: tuple, ended=False, _player=0, _n_of_pits=6, _n_of_seeds=48):
     :param _n_of_seeds: /
     :return: "kopie" hry ze které vznikl state
     """
-    return Game(*state, ended, _player=_player, _n_of_pits=_n_of_pits, _n_of_seeds=_n_of_seeds)
+    return Game(*map(list, state), ended, _player=_player, _n_of_pits=_n_of_pits, _n_of_seeds=_n_of_seeds)
