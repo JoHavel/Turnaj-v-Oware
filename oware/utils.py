@@ -10,6 +10,22 @@ n_of_moves: int = 2*90
 agent_time_limit: float = 1.0  # seconds
 
 
+# https://stackoverflow.com/a/325528
+class KillableThread(threading.Thread):
+    """A thread that can be killed from another thread with kill."""
+    def kill(self) -> None:
+        """Stop the thread (by throwing EndingException in it)."""
+
+        # Search for id of thread.
+        thread_id = 0
+        for tid, tobj in threading._active.items():
+            if tobj is self:
+                thread_id = tid
+        # Throw exception
+        ctypes.pythonapi.PyThreadState_SetAsyncExc(ctypes.c_long(thread_id),
+                                                   ctypes.py_object(EndingException))
+
+
 class EndingException(BaseException):
     """Exception for KillableThread"""
     pass
@@ -36,6 +52,16 @@ def import_agent(file_path: str):
         if not hasattr(agent, "move"):
             print("Agent %s neobsahuje move!" % file_path, file=sys.stderr)
             return None
+        if hasattr(agent, "init"):
+            ag = agent()
+            thread = KillableThread()
+            thread.run = ag.init
+            thread.start()
+            thread.join(timeout=agent_time_limit)
+            if thread.is_alive():
+                thread.kill()
+                thread.join()
+            return ag
         return agent()
     except FileNotFoundError:
         print("Soubor %s pravděpodobně nenalezen!" % file_path, file=sys.stderr)
@@ -86,22 +112,6 @@ def agent_combat(files: (str, str), verbose: bool = True) -> (int, int):
         # (For visual control, that number of moves is sufficient.)
 
     return game._player0_score, game._player1_score
-
-
-# https://stackoverflow.com/a/325528
-class KillableThread(threading.Thread):
-    """A thread that can be killed from another thread with kill."""
-    def kill(self) -> None:
-        """Stop the thread (by throwing EndingException in it)."""
-
-        # Search for id of thread.
-        thread_id = 0
-        for tid, tobj in threading._active.items():
-            if tobj is self:
-                thread_id = tid
-        # Throw exception
-        ctypes.pythonapi.PyThreadState_SetAsyncExc(ctypes.c_long(thread_id),
-                                                   ctypes.py_object(EndingException))
 
 
 def agent_play(agent, game: Game, file_name: str = "unspecified", verbose: bool = True) -> (bool, int):
