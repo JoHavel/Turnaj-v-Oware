@@ -54,8 +54,14 @@ def import_agent(file_path: str):
             return None
         if hasattr(agent, "init"):
             ag = agent()
+
+            def init():
+                try:
+                    ag.init()
+                except EndingException:
+                    pass
             thread = KillableThread()
-            thread.run = ag.init
+            thread.run = init
             thread.start()
             thread.join(timeout=agent_time_limit)
             if thread.is_alive():
