@@ -6,14 +6,14 @@ Pravidla Oware a úvod k témátu najdete na stránkách [prvního čísla](http
 Zároveň nám [zde](/NegaMax.md) přibyl nový text, který vám možná pomůže ve vylepšování vašich agentů.
 
 ## Vypsané odměny
-|        | Agamemnon (3b) | Bellerophon (2b) | Cadmus (3b) | Diomedes (3b) | Erechtheus (  ) |
+|        | Agamemnon (3b) | Bellerophon (2b) | Cadmus (3b) | Diomedes (3b) | Erechtheus (5b) |
 |--------|----------------|------------------|-------------|---------------|-----------------|
-| Daniel |     20:0       |      20:0        |    17:3     |     13:7      |                 |
-| Adam   |     20:0       |      17:3        |    13:7     |      9:11     |                 |
-| Jiří   |     20:0       |      16:4        |    13:7     |      8:12     |                 |
-| Václav |     15:5       |      14:6        |    13:7     |      5:15     |                 |
-| Tomáš  |     18:2       |      15:5        |     4:16    |      2:18     |                 |
-| Martin |      8:12      |       0:20       |     0:20    |      0:20     |                 |
+| Daniel |     20:0       |      20:0        |    17:3     |     13:7      |      3:17       |
+| Adam   |     20:0       |      17:3        |    13:7     |      9:11     |      3:17       |
+| Jiří   |     20:0       |      16:4        |    13:7     |      8:12     |      0:20       |
+| Václav |     15:5       |      14:6        |    13:7     |      5:15     |      0:20       |
+| Tomáš  |     18:2       |      15:5        |     4:16    |      2:18     |      2:18       |
+| Martin |      8:12      |       0:20       |     0:20    |      0:20     |      0:20       |
 
 ## Turnaje
 První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítězství, 1 za remízu, 5+5 her každý s každým):
@@ -117,4 +117,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 7. 1. 2022 (sedmý turnaj, aktualizace odměn bude brzy)
+Poslední aktualizace 12. 1. 2022 (Erechtheus)
