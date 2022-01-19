@@ -86,6 +86,16 @@ Hra Václav Tichý vs. Tomáš Flídr skončila 32:9
 | Tomáš  |  0:20  |  6:14  |  4:16  |  8:12  |   X    | 20:0   |     5.   |  38  |
 | Martin |  0:20  |  2:18  | 10:10  |  0:20  |  0:20  |   X    |     6.   |  12  |
 
+Osmý turnaj proběhl dle plánu 19. ledna a dopadl následovně:
+|        | Daniel | Adam   | Václav | Jiří   | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|--------|--------|--------|--------|--------|----------|------|
+| Daniel |   X    | 14:6   | 20:0   | 20:0   | 20:0   | 20:0   |     1.   |  94  |
+| Adam   |  6:14  |   X    | 13:7   | 14:6   | 20:0   | 20:0   |     2.   |  73  |
+| Václav |  0:20  |  7:13  |   X    | 20:0   | 18:2   | 10:10  |     3.   |  55  |
+| Jiří   |  0:20  |  6:14  |  0:20  |   X    | 14:6   | 20:0   |     4.   |  40  |
+| Tomáš  |  0:20  |  0:20  |  2:18  |  6:14  |   X    | 20:0   |     5.   |  28  |
+| Martin |  0:20  |  0:20  | 10:10  |  0:20  |  0:20  |   X    |     6.   |  10  |
+
 ## Instalace
 Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních stránkách](https://www.python.org/downloads/).
 
@@ -117,4 +127,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 13. 1. 2022 (Erechtheus)
+Poslední aktualizace 19. 1. 2022 (Osmý turnaj)
