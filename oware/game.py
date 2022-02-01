@@ -67,7 +67,7 @@ class Game:
         """
         :return: copy of the game (full copy -- changing copy doesn't change original and reversely)
         """
-        return copy.deepcopy(self)
+        return Game(self.score.copy(), self.pits.copy(), self.ended, self._player, self._n_of_pits, self._n_of_seeds)
 
     def play(self, pit: int, rotate: bool = True) -> bool:
         """
