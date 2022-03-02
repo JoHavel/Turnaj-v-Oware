@@ -116,6 +116,16 @@ Desátý turnaj proběhl ke stavu 16. února a dopadl následovně:
 | Tomáš  |  0:20  |  5:15  |  0:20  |  8:12  |   X    | 20:0   |     5.   |  33  |
 | Martin |  0:20  |  2:18  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   2  |
 
+Jedenáctý turnaj se odehrál 2. března a štěstí v něm nepřálo Adamovi:
+|        | Daniel | Václav | Jiří   | Adam   | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|--------|--------|--------|--------|--------|----------|------|
+| Daniel |   X    | 20:0   | 19:1   | 16:4   | 18:2   | 20:0   |     1.   |  93  |
+| Václav |  0:20  |   X    | 11:9   | 14:6   | 16:4   | 20:0   |     2.   |  61  |
+| Jiří   |  1:19  |  9:11  |   X    | 16:4   | 11:9   | 20:0   |     3.   |  57  |
+| Adam   |  4:16  |  6:14  |  4:16  |   X    | 15:5   | 20:0   |     4.   |  49  |
+| Tomáš  |  2:18  |  4:16  |  9:11  |  5:15  |   X    | 20:0   |     5.   |  40  |
+| Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
+
 ## Instalace
 Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních stránkách](https://www.python.org/downloads/).
 
@@ -147,4 +157,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 23. 2. 2022 (10. turnaj)
+Poslední aktualizace 2. 3. 2022 (11. turnaj)
