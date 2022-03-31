@@ -126,7 +126,7 @@ Jedenáctý turnaj se odehrál 2. března a štěstí v něm nepřálo Adamovi:
 | Tomáš  |  2:18  |  4:16  |  9:11  |  5:15  |   X    | 20:0   |     5.   |  40  |
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
 
-Dvanáctý turnaj se kvůli technickým potížím konal 23. března, ale nebojte, stav agentů od 16. března se nezměnil 😉:
+Dvanáctý turnaj se kvůli technickým potížím konal 23. března, ale nebojte, pořadí agentů od 16. března se nezměnilo 😉:
 |        | Daniel | Václav | Jiří   | Adam   | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 18:2   | 12:8   | 15:5   | 20:0   | 20:0   |     1.   |  85  |
@@ -134,6 +134,16 @@ Dvanáctý turnaj se kvůli technickým potížím konal 23. března, ale nebojt
 | Jiří   |  8:12  |  8:12  |   X    | 10:10  | 16:4   | 20:0   |     3.   |  62  |
 | Adam   |  5:15  |  6:14  | 10:10  |   X    |  9:11  | 20:0   |     4.   |  50  |
 | Tomáš  |  0:20  |  4:16  |  4:16  | 11:9   |   X    | 20:0   |     5.   |  39  |
+| Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
+
+Třináctý turnaj proběhl 30. března a vzhledem k počtu nových řešení nikoho nepřekvapí, že dopadl stejně jako předchozí:
+|        | Daniel | Václav | Jiří   | Adam   | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|--------|--------|--------|--------|--------|----------|------|
+| Daniel |   X    | 14:6   | 14:6   | 16:4   | 16:4   | 20:0   |     1.   |  80  |
+| Václav |  6:14  |   X    | 10:10  | 13:7   | 20:0   | 20:0   |     2.   |  69  |
+| Jiří   |  6:14  | 10:10  |   X    |  8:12  | 18:2   | 20:0   |     3.   |  62  |
+| Adam   |  4:16  |  7:13  | 12:8   |   X    | 13:7   | 20:0   |     4.   |  56  |
+| Tomáš  |  4:16  |  0:20  |  2:18  |  7:13  |   X    | 20:0   |     5.   |  33  |
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
 
 ## Instalace
@@ -167,4 +177,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 23. 3. 2022 (12. turnaj)
+Poslední aktualizace 31. 3. 2022 (13. turnaj)
