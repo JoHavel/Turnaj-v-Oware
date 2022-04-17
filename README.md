@@ -159,7 +159,7 @@ Třináctý turnaj proběhl 30. března a vzhledem k počtu nových řešení ni
 | Tomáš  |  4:16  |  0:20  |  2:18  |  7:13  |   X    | 20:0   |     5.   |  33  |
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
 
-Čtrnáctý turnaj byl se stavem k 13. února, tedy
+Čtrnáctý turnaj byl se stavem k 13. únoru, tedy stále se stejnými agenty, avšak náhoda nám zamíchala s pořadím:
 
 |        | Václav | Adam   | Jiří   | Daniel | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
