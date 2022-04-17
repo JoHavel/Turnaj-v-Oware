@@ -17,6 +17,7 @@ Zároveň nám [zde](/NegaMax.md) přibyl nový text, který vám možná pomů�
 
 ## Turnaje
 První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítězství, 1 za remízu, 5+5 her každý s každým):
+
 |          | Adam  | Daniel | Jiří  | Tomáš | Martin | Umístění |
 |----------|-------|--------|-------|-------|--------|----------|
 | Adam     |   X   |  16:4  | 18:2  | 20:0  |  20:0  |    1.    |
@@ -26,6 +27,7 @@ První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítěz
 | Martin   |  0:20 |   0:20 |  0:20 |  0:20 |    X   |    5.    |
 
 Druhý turnaj proběhl 27. října 2021 a dopadl následovně:
+
 |          | Adam  | Václav | Jiří  | Daniel | Tomáš | Martin | Umístění | Suma |
 |----------|-------|--------|-------|--------|-------|--------|----------|------|
 | Adam     |   X   |  12:8  |  9:11 |  20:0  | 20:0  |  20:0  |    1.    |  81  |
@@ -36,6 +38,7 @@ Druhý turnaj proběhl 27. října 2021 a dopadl následovně:
 | Martin   |  0:20 |  10:10 |  0:20 |   0:20 |  0:20 |    X   |    6.    |  10  |
 
 Třetí turnaj proběhl 10. listopadu a zde jsou výsledky:
+
 |        | Adam   | Jiří   | Václav | Daniel | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Adam   |   X    | 11:9   | 14:6   | 18:2   | 16:4   | 20:0   |     1.   |  79  |
@@ -46,6 +49,7 @@ Třetí turnaj proběhl 10. listopadu a zde jsou výsledky:
 | Martin |  0:20  |  0:20  | 10:10  |  0:20  |  0:20  |   X    |     6.   |  10  |
 
 Čtvrtý turnaj proběhl k 24. listopadu a výsledky se nezměnily, jako se nezměnili ani agenti:
+
 |        | Adam   | Jiří   | Václav | Daniel | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Adam   |   X    | 11:9   | 18:2   | 17:3   | 16:4   | 20:0   |     1.   |  82  |
@@ -56,6 +60,7 @@ Třetí turnaj proběhl 10. listopadu a zde jsou výsledky:
 | Martin |  0:20  |  0:20  |  6:14  |  0:20  |  0:20  |   X    |     6.   |   6  |
 
 Pátý turnaj, ve kterém Daniel vyslyšel naši výzvu z právě vydávaného čísla proběhl 8. prosince:
+
 |        | Daniel | Adam    | Jiří   | Václav | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|---------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    |  16:4   | 20:0   | 20:0   | 18:2   | 20:0   |     1.   |  94  |
@@ -66,6 +71,7 @@ Pátý turnaj, ve kterém Daniel vyslyšel naši výzvu z právě vydávaného �
 | Martin |  0:20  |   0:20  |  0:20  | 10:10  |  0:20  |   X    |     6.   |  10  |
 
 Vánoční – šestý – turnaj proběhl k 22. prosinci 2021. Nadělil body Danovi, Adamovi a Jiřímu. Gratulujeme:
+
 |        | Daniel | Adam   | Jiří   | Václav | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 20:0   | 20:0   | 20:0   | 20:0   | 20:0   |     1.   | 100  |
@@ -77,6 +83,7 @@ Vánoční – šestý – turnaj proběhl k 22. prosinci 2021. Nadělil body Da
 
 Letošní první 🎆 turnaj (a sedmý v pořadí) proběhl 5. ledna:
 Hra Václav Tichý vs. Tomáš Flídr skončila 32:9
+
 |        | Daniel | Adam   | Václav | Jiří   | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 20:0   | 20:0   | 18:2   | 20:0   | 20:0   |     1.   |  98  |
@@ -87,6 +94,7 @@ Hra Václav Tichý vs. Tomáš Flídr skončila 32:9
 | Martin |  0:20  |  2:18  | 10:10  |  0:20  |  0:20  |   X    |     6.   |  12  |
 
 Osmý turnaj proběhl dle plánu 19. ledna a dopadl následovně:
+
 |        | Daniel | Adam   | Václav | Jiří   | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 14:6   | 20:0   | 20:0   | 20:0   | 20:0   |     1.   |  94  |
@@ -97,6 +105,7 @@ Osmý turnaj proběhl dle plánu 19. ledna a dopadl následovně:
 | Martin |  0:20  |  0:20  | 10:10  |  0:20  |  0:20  |   X    |     6.   |  10  |
 
 Devátý turnaj proběhl 2. února s výsledkem:
+
 |        | Daniel | Adam   | Václav | Jiří   | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 16:4   | 20:0   | 16:4   | 13:7   | 20:0   |     1.   |  85  |
@@ -107,6 +116,7 @@ Devátý turnaj proběhl 2. února s výsledkem:
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  2:18  |   X    |     6.   |   2  |
 
 Desátý turnaj proběhl ke stavu 16. února a dopadl následovně:
+
 |        | Daniel | Adam   | Jiří   | Václav | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 16:4   | 18:2   | 19:1   | 20:0   | 20:0   |     1.   |  93  |
@@ -117,6 +127,7 @@ Desátý turnaj proběhl ke stavu 16. února a dopadl následovně:
 | Martin |  0:20  |  2:18  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   2  |
 
 Jedenáctý turnaj se odehrál 2. března a štěstí v něm nepřálo Adamovi:
+
 |        | Daniel | Václav | Jiří   | Adam   | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 20:0   | 19:1   | 16:4   | 18:2   | 20:0   |     1.   |  93  |
@@ -127,6 +138,7 @@ Jedenáctý turnaj se odehrál 2. března a štěstí v něm nepřálo Adamovi:
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
 
 Dvanáctý turnaj se kvůli technickým potížím konal 23. března, ale nebojte, pořadí agentů od 16. března se nezměnilo 😉:
+
 |        | Daniel | Václav | Jiří   | Adam   | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 18:2   | 12:8   | 15:5   | 20:0   | 20:0   |     1.   |  85  |
@@ -137,6 +149,7 @@ Dvanáctý turnaj se kvůli technickým potížím konal 23. března, ale nebojt
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
 
 Třináctý turnaj proběhl 30. března a vzhledem k počtu nových řešení nikoho nepřekvapí, že dopadl stejně jako předchozí:
+
 |        | Daniel | Václav | Jiří   | Adam   | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 14:6   | 14:6   | 16:4   | 16:4   | 20:0   |     1.   |  80  |
@@ -144,6 +157,17 @@ Třináctý turnaj proběhl 30. března a vzhledem k počtu nových řešení ni
 | Jiří   |  6:14  | 10:10  |   X    |  8:12  | 18:2   | 20:0   |     3.   |  62  |
 | Adam   |  4:16  |  7:13  | 12:8   |   X    | 13:7   | 20:0   |     4.   |  56  |
 | Tomáš  |  4:16  |  0:20  |  2:18  |  7:13  |   X    | 20:0   |     5.   |  33  |
+| Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
+
+Čtrnáctý turnaj byl se stavem k 13. února, tedy
+
+|        | Václav | Adam   | Jiří   | Daniel | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|--------|--------|--------|--------|--------|----------|------|
+| Václav |   X    |  8:12  | 10:10  | 12:8   | 20:0   | 20:0   |     1.   |  70  |
+| Adam   | 12:8   |   X    |  8:12  | 10:10  | 17:3   | 20:0   |     2.   |  67  |
+| Jiří   | 10:10  | 12:8   |   X    |  8:12  | 14:6   | 20:0   |     3.   |  64  |
+| Daniel |  8:12  | 10:10  | 12:8   |   X    | 12:8   | 20:0   |     4.   |  62  |
+| Tomáš  |  0:20  |  3:17  |  6:14  |  8:12  |   X    | 20:0   |     5.   |  37  |
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
 
 ## Instalace
@@ -177,4 +201,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 31. 3. 2022 (13. turnaj)
+Poslední aktualizace 17. 4. 2022 (14. turnaj)
