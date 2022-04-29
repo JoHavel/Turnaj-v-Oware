@@ -159,7 +159,7 @@ Třináctý turnaj proběhl 30. března a vzhledem k počtu nových řešení ni
 | Tomáš  |  4:16  |  0:20  |  2:18  |  7:13  |   X    | 20:0   |     5.   |  33  |
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
 
-Čtrnáctý turnaj byl se stavem k 13. únoru, tedy stále se stejnými agenty, avšak náhoda nám zamíchala s pořadím:
+Čtrnáctý turnaj byl se stavem k 13. dubnu, tedy stále se stejnými agenty, avšak náhoda nám zamíchala s pořadím:
 
 |        | Václav | Adam   | Jiří   | Daniel | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
@@ -168,6 +168,16 @@ Třináctý turnaj proběhl 30. března a vzhledem k počtu nových řešení ni
 | Jiří   | 10:10  | 12:8   |   X    |  8:12  | 14:6   | 20:0   |     3.   |  64  |
 | Daniel |  8:12  | 10:10  | 12:8   |   X    | 12:8   | 20:0   |     4.   |  62  |
 | Tomáš  |  0:20  |  3:17  |  6:14  |  8:12  |   X    | 20:0   |     5.   |  37  |
+| Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
+
+Patnáctý turnaj se konal 27. dubna a náhoda v něm vrátila Dana na první místo:
+|        | Daniel | Jiří   | Václav | Adam   | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|--------|--------|--------|--------|--------|----------|------|
+| Daniel |   X    | 16:4   | 18:2   | 13:7   | 15:5   | 20:0   |     1.   |  82  |
+| Jiří   |  4:16  |   X    | 10:10  | 12:8   | 14:6   | 20:0   |     2.   |  60  |
+| Václav |  2:18  | 10:10  |   X    | 13:7   | 14:6   | 20:0   |     3.   |  59  |
+| Adam   |  7:13  |  8:12  |  7:13  |   X    | 17:3   | 20:0   |     4.   |  59  |
+| Tomáš  |  5:15  |  6:14  |  6:14  |  3:17  |   X    | 20:0   |     5.   |  40  |
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
 
 ## Instalace
@@ -201,4 +211,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 17. 4. 2022 (14. turnaj)
+Poslední aktualizace 29. 4. 2022 (15. turnaj)
