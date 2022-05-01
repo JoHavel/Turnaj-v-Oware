@@ -128,7 +128,7 @@ class Game:
 
             # if a new player cannot move (opponent has 0 seeds in pits and player can't gather any on opponent's side),
             # new player get all seeds from pits
-            if not any(map(lambda it: self.player_pits[it] > self._n_of_pits - it, range(self._n_of_pits))) and \
+            if not any(map(lambda it: self.player_pits[it] >= self._n_of_pits - it, range(self._n_of_pits))) and \
                     not any(self.opponent_pits):
                 self.score[self._player] += sum(self.player_pits)
                 for i in range(self._n_of_pits):
