@@ -8,12 +8,12 @@ Zároveň nám [zde](/NegaMax.md) přibyl nový text, který vám možná pomů�
 ## Vypsané odměny
 |        | Agamemnon (3b) | Bellerophon (2b) | Cadmus (3b) | Diomedes (3b) | Erechtheus (5b) | Foroneus (?b) |
 |--------|----------------|------------------|-------------|---------------|-----------------|---------------|
-| Daniel |     20:0       |      20:0        |    17:3     |     13:7      |      3:17       |               |
-| Adam   |     20:0       |      17:3        |    13:7     |      9:11     |      9:11       |               |
-| Jiří   |     20:0       |      16:4        |    13:7     |      8:12     |      5:15       |               |
-| Václav |     15:5       |      14:6        |    13:7     |      5:15     |      4:16       |               |
-| Tomáš  |     18:2       |      15:5        |     4:16    |      2:18     |      2:18       |               |
-| Martin |      8:12      |       0:20       |     0:20    |      0:20     |      0:20       |               |
+| Daniel |     20:0       |      20:0        |    17:3     |     14:6      |      8:12       |     12:8      |
+| Adam   |     20:0       |      17:3        |    13:7     |      9:11     |      9:11       |     TO:DO     |
+| Jiří   |     20:0       |      16:4        |    13:7     |      8:12     |      5:15       |      3:17     |
+| Václav |     15:5       |      14:6        |    13:7     |      5:15     |      4:16       |      0:20     |
+| Tomáš  |     18:2       |      15:5        |     4:16    |      2:18     |      2:18       |      0:20     |
+| Martin |      8:12      |       0:20       |     0:20    |      0:20     |      0:20       |      0:20     |
 
 ## Turnaje
 První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítězství, 1 za remízu, 5+5 her každý s každým):
@@ -171,6 +171,7 @@ Třináctý turnaj proběhl 30. března a vzhledem k počtu nových řešení ni
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
 
 Patnáctý turnaj se konal 27. dubna a náhoda v něm vrátila Dana na první místo:
+
 |        | Daniel | Jiří   | Václav | Adam   | Tomáš  | Martin | Umístění | Suma |
 |--------|--------|--------|--------|--------|--------|--------|----------|------|
 | Daniel |   X    | 16:4   | 18:2   | 13:7   | 15:5   | 20:0   |     1.   |  82  |
@@ -179,6 +180,18 @@ Patnáctý turnaj se konal 27. dubna a náhoda v něm vrátila Dana na první m�
 | Adam   |  7:13  |  8:12  |  7:13  |   X    | 17:3   | 20:0   |     4.   |  59  |
 | Tomáš  |  5:15  |  6:14  |  6:14  |  3:17  |   X    | 20:0   |     5.   |  40  |
 | Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
+
+Šestnáctý a poslední turnaj proběhl 11. dubna
+
+|        | Daniel | Václav | Adam   | Jiří   | Tomáš  | Martin | Umístění | Suma |
+|--------|--------|--------|--------|--------|--------|--------|----------|------|
+| Daniel |   X    | 14:6   | 15:5   | 20:0   | 20:0   | 20:0   |     1.   |  89  |
+| Václav |  6:14  |   X    | 11:9   | 12:8   | 12:8   | 20:0   |     2.   |  61  |
+| Adam   |  5:15  |  9:11  |   X    | 10:10  | 16:4   | 20:0   |     3.   |  60  |
+| Jiří   |  0:20  |  8:12  | 10:10  |   X    | 18:2   | 20:0   |     4.   |  56  |
+| Tomáš  |  0:20  |  8:12  |  4:16  |  2:18  |   X    | 20:0   |     5.   |  34  |
+| Martin |  0:20  |  0:20  |  0:20  |  0:20  |  0:20  |   X    |     6.   |   0  |
+
 
 ## Instalace
 Jediné, co potřebujete je Python 3. Ten najdete např. na [oficiálních stránkách](https://www.python.org/downloads/).
@@ -211,4 +224,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 29. 4. 2022 (15. turnaj)
+Poslední aktualizace 13. 5. 2022 (16. turnaj a odměny, Adam se ještě vyhodnocuje, také kontroluji, zda vše proběhlo v pořádku)
