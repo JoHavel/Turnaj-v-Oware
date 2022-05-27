@@ -6,14 +6,14 @@ Pravidla Oware a úvod k témátu najdete na stránkách [prvního čísla](http
 Zároveň nám [zde](/NegaMax.md) přibyl nový text, který vám možná pomůže ve vylepšování vašich agentů.
 
 ## Vypsané odměny
-|        | Agamemnon (3b) | Bellerophon (2b) | Cadmus (3b) | Diomedes (3b) | Erechtheus (5b) | Foroneus (?b) |
+|        | Agamemnon (3b) | Bellerophon (2b) | Cadmus (3b) | Diomedes (3b) | Erechtheus (5b) | Foroneus (5b) |
 |--------|----------------|------------------|-------------|---------------|-----------------|---------------|
-| Daniel |     20:0       |      20:0        |    17:3     |     14:6      |      8:12       |     12:8      |
-| Adam   |     20:0       |      17:3        |    13:7     |      9:11     |      9:11       |      1:19     |
-| Jiří   |     20:0       |      16:4        |    13:7     |      8:12     |      5:15       |      3:17     |
-| Václav |     15:5       |      14:6        |    13:7     |      5:15     |      4:16       |      0:20     |
-| Tomáš  |     18:2       |      15:5        |     4:16    |      2:18     |      2:18       |      0:20     |
-| Martin |      8:12      |       0:20       |     0:20    |      0:20     |      0:20       |      0:20     |
+| Daniel |     20:0       |      20:0        |    17:3     |     14:6      |      8:12       | 12:8          |
+| Adam   |     20:0       |      17:3        |    13:7     |      9:11     |      9:11       | 1:19          |
+| Jiří   |     20:0       |      16:4        |    13:7     |      8:12     |      5:15       | 3:17          |
+| Václav |     15:5       |      14:6        |    13:7     |      5:15     |      4:16       | 0:20          |
+| Tomáš  |     18:2       |      15:5        |     4:16    |      2:18     |      2:18       | 0:20          |
+| Martin |      8:12      |       0:20       |     0:20    |      0:20     |      0:20       | 0:20          |
 
 ## Turnaje
 První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítězství, 1 za remízu, 5+5 her každý s každým):
@@ -224,4 +224,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 13. 5. 2022 (16. turnaj a odměny, Adam se ještě vyhodnocuje, také kontroluji, zda vše proběhlo v pořádku)
+Poslední aktualizace 27. 5. 2022
