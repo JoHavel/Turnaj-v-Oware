@@ -16,6 +16,7 @@ Zároveň nám [zde](/NegaMax.md) přibyl nový text, který vám možná pomů�
 | Martin |      8:12      |       0:20       |     0:20    |      0:20     |      0:20       | 0:20          |
 
 ## Turnaje
+[Vítězný agent Daniela](/oware/agents/Prohledavani_ABbooklock.py)  
 První turnaj proběhl 13. října 2021 a dopadl následovně (2 body za vítězství, 1 za remízu, 5+5 her každý s každým):
 
 |          | Adam  | Daniel | Jiří  | Tomáš | Martin | Umístění |
@@ -224,4 +225,4 @@ V případě zájmu o to, jak toto celé funguje uvnitř, je něco málo napsán
 
 ***[Turnajová část](/oware/tournament.py), povolení a zákazy se mohou (a pravděpodobně budou) měnit. [oware/text.py](oware/text.py), [oware/graphics.py](oware/graphics.py) a časový limit na tah se možná také změní. Zato to, jak má vypadat vaše řešení se na 99,9% měnit nebude (leda přidáním dalších featur na objekt game).***
 
-Poslední aktualizace 27. 5. 2022
+Poslední aktualizace 14. 6. 2022
